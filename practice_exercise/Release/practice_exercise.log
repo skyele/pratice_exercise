@@ -1,0 +1,13 @@
+﻿  practice.cpp
+practice.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+practice.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+practice.cpp(38): warning C4018: “<”: 有符号/无符号不匹配
+practice.cpp(64): warning C4018: “<”: 有符号/无符号不匹配
+practice.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  1 of 573 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  practice_exercise.vcxproj -> C:\Users\Air\Desktop\practice_exercise\Release\practice_exercise.exe
+  practice_exercise.vcxproj -> C:\Users\Air\Desktop\practice_exercise\Release\practice_exercise.pdb (Full PDB)

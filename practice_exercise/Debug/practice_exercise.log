@@ -1,0 +1,6 @@
+﻿  practice.cpp
+c:\users\air\desktop\practice_exercise\practice_exercise\practice.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\air\desktop\practice_exercise\practice_exercise\practice.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\air\desktop\practice_exercise\practice_exercise\practice.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+  practice_exercise.vcxproj -> C:\Users\Air\Desktop\practice_exercise\Debug\practice_exercise.exe
+  practice_exercise.vcxproj -> C:\Users\Air\Desktop\practice_exercise\Debug\practice_exercise.pdb (Full PDB)
